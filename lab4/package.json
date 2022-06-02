@@ -1,0 +1,17 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.2.0"
+  }
+}
